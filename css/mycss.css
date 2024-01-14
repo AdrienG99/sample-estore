@@ -1,1 +1,23 @@
+.slide{
+ display: none;
+ width: 100%;
+}
 
+.label{
+ display: none;
+}
+
+.error{
+    color: #F00;
+}
+
+table.item {border-spacing: 2px; }
+table.item th, table.item td {padding: 4px;}
+table.item {margin-bottom: 5px;}
+
+table.item th {border: 2px solid black;}
+table.item td {border: 2px solid black;}
+
+td.right {text-align: right;}
+td.left {text-align: left;}
+td.center{text-align: center;}
